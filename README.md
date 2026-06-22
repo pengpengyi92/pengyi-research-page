@@ -18,6 +18,14 @@ Use this URL for the Hetao / Shenyuan Yingcai application link field:
 https://pengpengyi92.github.io/hetao-research-page/
 ```
 
+## Current CV Version
+
+The public `Chinese CV` link currently points to the latest BAR version:
+
+```text
+E:\2026\B面\河套学院\CV\CV001 HETAO PENGYI BAR.pdf
+```
+
 ## Before Sending Publicly
 
 Replace or confirm:
