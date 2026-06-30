@@ -1,14 +1,6 @@
-# Website Notes
+# Hetao Research Page
 
-This is a static personal landing page for the HKUDS / PM2.0 direction.
-
-## Local Preview
-
-Open:
-
-```text
-projects/hkuds-pitch-kit/website/index.html
-```
+Static public page for the Hetao / Shenyuan Yingcai application direction.
 
 ## Public Link
 
@@ -18,23 +10,30 @@ Use this URL for the Hetao / Shenyuan Yingcai application link field:
 https://pengpengyi92.github.io/hetao-research-page/
 ```
 
-## Current CV Version
+## Current Public CV
 
-The public `Chinese CV` link currently points to the latest BAR version:
+The public CV link now points to the sanitized AI / Quant CV:
 
 ```text
-E:\2026\B面\河套学院\CV\CV001 HETAO PENGYI BAR.pdf
+files/Pengyi_Peng_AI_Quant_CV_Sanitized_20260630.pdf
 ```
+
+Prepared from the internal sanitized CV source on 2026-06-30. The local source
+path is intentionally not documented in this public repository.
+
+The old Hetao Chinese CV remains in `files/` for archive and rollback:
+
+```text
+files/Pengyi_Peng_Hetao_CV_Chinese.pdf
+```
+
+## Local Preview
+
+Open `index.html` in a browser.
 
 ## Before Sending Publicly
 
-Replace or confirm:
-
-- CV link works after deployment.
-- GitHub URL is correct.
-- Email address is correct.
-- The site is hosted somewhere stable, such as GitHub Pages, Vercel, Netlify, or a personal domain.
-
-## Deployment Shape
-
-For the fastest deployment, create a small GitHub repo and put the contents of this `website/` directory at the repo root. The CV PDF is already copied to `website/files/Pengyi_Peng_Research_CV.pdf`, so the link in `index.html` should work after deployment.
+- Confirm the sanitized CV link opens correctly.
+- Confirm the GitHub profile URL is correct.
+- Confirm the email address is correct.
+- Keep private or sensitive CV versions out of this public repository.
