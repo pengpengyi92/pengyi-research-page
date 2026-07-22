@@ -14,16 +14,11 @@ Use this URL as the general research profile link:
 https://pengpengyi92.github.io/pengyi-research-page/
 ```
 
-## Current Public CV
+## CV Policy
 
-The public CV link points to the sanitized AI / Quant CV:
-
-```text
-files/Pengyi_Peng_AI_Quant_CV_Sanitized_20260630.pdf
-```
-
-Prepared from the internal sanitized CV source on 2026-06-30. The local source
-path is intentionally not documented in this public repository.
+CV files are not published in this repository. Current role-specific versions
+are maintained privately and shared directly for relevant applications and
+research conversations.
 
 ## Local Preview
 
@@ -31,7 +26,7 @@ Open `index.html` in a browser.
 
 ## Public Safety Checklist
 
-- Keep private or sensitive CV versions out of this public repository.
+- Keep all CV versions out of this public repository.
 - Avoid location-specific or one-application-only wording in the main page.
-- Confirm the sanitized CV link opens correctly before sending.
+- Confirm that no public page or repository file exposes a CV.
 - Confirm the GitHub profile URL and email address are correct.
